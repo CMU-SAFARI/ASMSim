@@ -1,0 +1,7 @@
+To run ASM:
+
+mono sim.exe -config configs/frfcfs.cfg -N 4 -workload workloads/workloads_4app 1 -mem.channel_max 1 -mem.rank_max 1 -output workload1_asm -sched.sched_algo BWAllocation -periodic_name workload1_asm -asm true -aux_cache true
+
+The slowdown numbers (periodically computed) are output in the
+*service_periodic.txt file and the corresponding performance is in the
+*ipc_periodic.txt file.
