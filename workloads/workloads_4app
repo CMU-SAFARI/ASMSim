@@ -1,4 +1,4 @@
-/home/lavanyas/traces1b+pcinfo_npb, /home/lavanyas/traces1b+pcinfo
+/scratch/traces
 458.sjeng.bin.gz 465.tonto.bin.gz 464.h264ref.bin.gz 445.gobmk.bin.gz
 464.h264ref.bin.gz 444.namd.bin.gz 400.perlbench.bin.gz 435.gromacs.bin.gz
 453.povray.bin.gz 454.calculix.bin.gz 444.namd.bin.gz 458.sjeng.bin.gz
